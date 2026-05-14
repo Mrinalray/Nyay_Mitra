@@ -1,6 +1,6 @@
 # ⚖️ Nyay Mitra — Your Legal Friend
 
-![Nyay Mitra Banner](assets/nyay_mitra_banner.png)
+![Nyay Mitra Banner](Assets/banner.png)
 
 🚀 **Nyay Mitra** is an AI-powered legal guidance chatbot built for Indian citizens. It provides instant, plain-language answers to legal questions — from police encounters to landlord disputes — grounded in real Indian laws.
 
@@ -78,7 +78,7 @@
 
 ## 📸 Preview
 
-*(Add screenshots here)*
+*![Nyay Mitra Preview](Assets/preview.png)*
 
 ---
 
